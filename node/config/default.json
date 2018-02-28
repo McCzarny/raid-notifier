@@ -2,5 +2,5 @@
     "appSecret": "c1ee5f68a45adcc76f0b9311ce714090",
     "pageAccessToken": "EAACZAJGYT6ysBAJuX6QNwL4cmaZAwHktzirZAGiHwe4aZAh6ZAwWm8qIzxFuzPIYdTz7QxESbg0Br9LzfucZCkRKauffLQyIqdMr5NZACoehLKTYUjgGXVJu48SkHvG9pvWAJ5d6xIhH2M3ZAuDs9mr7QcdanEE5uXZCDRlj3axoNkmfeGQ4g1YPU",
     "validationToken": "TOKEN",
-    "serverURL": "to_be_set_manually"
+    "serverURL": "https://raid-notifier.herokuapp.com/"
 }

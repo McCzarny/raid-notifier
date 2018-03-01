@@ -1,0 +1,21 @@
+{
+    "name": "gym-notifier",
+    "version": "0.0.1",
+    "description": "Pokemong Go gym raid norifier",
+    "main": "app.js",
+    "dependencies": {
+      "body-parser": "^1.15.0",
+      "config": "^1.20.4",
+      "ejs": "^2.4.2",
+      "express": "^4.13.4",
+      "request": "^2.72.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Maciej Czarnecki",
+    "license": "The Unlicense"
+  }

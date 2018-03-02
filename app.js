@@ -44,6 +44,9 @@ app.post('/webhook/', function (req, res) {
         if (text === 'Generic') {
             sendGenericMessage(sender)
             continue
+        } else if (text === 'ping') {
+            sendTextMessage(sender, "pong")
+            continue
         }
         sendTextMessage(sender, "Message received: " + text.substring(0, 200))
       }
